@@ -2,10 +2,20 @@ body {
 	background: #CCCCCC
 }
 
+#banner { 
+	width: 100%;
+
+}
+
 p {
+	font-size:20px;
 	text-align: center;
 }
 
-em strong {
-	color: #FF0000;
+ strong em {
+	color: darkred;
+}
+
+#missao {
+	color: #4682B4
 }
